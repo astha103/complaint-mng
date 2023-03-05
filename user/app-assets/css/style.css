@@ -1,0 +1,19 @@
+.submit-btn{
+	background:red;
+	padding:10px 15px;
+	color:white;
+	border:1px solid red;
+}
+
+.profileupload{
+	display:none;
+}
+.profile-image{
+	position:relative;
+}
+.closeicon{
+	position:absolute;
+	left:60px;
+	top:0px;
+	color:red;
+}

@@ -1,0 +1,14 @@
+.submit-btn{
+	background:red;
+	padding:10px 15px;
+	color:white;
+	border:1px solid red;
+}
+
+#myModal{
+	z-index:1100 !important; 
+	top:100px;
+}
+.modal-backdrop {
+		z-index:0 !important; 
+}
